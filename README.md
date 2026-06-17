@@ -163,7 +163,7 @@ Oluwaseun Franklin Olabode, PhD. Hydrogeologist (Aberdeen). Working on machine l
 
 - GitHub: seunoutlier
 - LinkedIn: oluwaseun-franklin-olabode-phd-6baaaa1a6
-- Google Scholar: LslmGiUAAAAJ
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=LslmGiUAAAAJ&view_op=list_works&sortby=pubdate
 
 ## License
 
